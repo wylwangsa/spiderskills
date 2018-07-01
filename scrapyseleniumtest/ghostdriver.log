@@ -1,0 +1,2755 @@
+[INFO  - 2018-07-01T15:41:10.639Z] GhostDriver - Main - running on port 52877
+[INFO  - 2018-07-01T15:41:13.714Z] Session [2f70d7e0-7d45-11e8-9896-65e0471ab218] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-07-01T15:41:13.714Z] Session [2f70d7e0-7d45-11e8-9896-65e0471ab218] - page.customHeaders:  - {}
+[INFO  - 2018-07-01T15:41:13.714Z] Session [2f70d7e0-7d45-11e8-9896-65e0471ab218] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-07-01T15:41:13.714Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2f70d7e0-7d45-11e8-9896-65e0471ab218
+[ERROR - 2018-07-01T15:41:13.739Z] RouterReqHand - _handle.error - {"name":"Missing Command Parameter","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Connection\":\"close\",\"Content-Length\":\"72\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:52877\",\"User-Agent\":\"Python http auth\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{\\\"pageLoad\\\": 20000, \\\"sessionId\\\": \\\"2f70d7e0-7d45-11e8-9896-65e0471ab218\\\"}\",\"url\":\"/timeouts\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"timeouts\",\"directory\":\"/\",\"path\":\"/timeouts\",\"relative\":\"/timeouts\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/timeouts\",\"queryKey\":{},\"chunks\":[\"timeouts\"]},\"urlOriginal\":\"/session/2f70d7e0-7d45-11e8-9896-65e0471ab218/timeouts\"}","line":546,"sourceURL":"phantomjs://code/session_request_handler.js","stack":"_postTimeout@phantomjs://code/session_request_handler.js:546:73\n_handle@phantomjs://code/session_request_handler.js:148:25\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:41:22.399Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459682276
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:41:29.328Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459689252
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:41:36.590Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459696355
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:41:46.706Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459706421
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:41:53.751Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459713544
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:42:23.640Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459743525
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:42:30.156Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459749989
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:42:35.436Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459755122
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:42:42.112Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459761856
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:42:54.643Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459774451
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:43:13.915Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459793756
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:43:27.880Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459807557
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:43:36.758Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459816550
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:43:52.569Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459832186
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:44:01.504Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459841124
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:44:08.147Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459847982
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:44:14.953Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459854625
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:44:54.471Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459894169
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:45:08.822Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459908544
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:45:15.429Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459915081
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:45:21.752Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459921585
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:45:27.786Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459927529
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:45:42.684Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459942489
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T15:46:10.633Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-07-01T15:46:17.646Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459977371
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:46:35.497Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530459995334
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:46:42.584Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460002420
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:46:51.665Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460011354
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:46:58.439Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460017917
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:47:14.714Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460034523
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:48:15.456Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460095290
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:48:45.165Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460125081
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:49:08.578Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460148302
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:50:20.685Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460220441
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:50:27.774Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460227461
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:50:43.060Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460242928
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:50:50.087Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460249906
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T15:51:10.636Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-07-01T15:51:14.175Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460273808
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:51:22.180Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460282027
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:51:46.187Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460306028
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:51:57.560Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460317367
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:52:04.784Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460324661
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:52:11.827Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460331677
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:52:29.848Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460349772
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:52:38.640Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460358500
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:52:48.071Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460367983
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:52:56.801Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460376710
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:53:26.753Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460406594
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:53:43.335Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460423259
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:53:49.668Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460429542
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:53:55.316Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460435068
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:54:10.434Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460450273
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:54:16.975Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460456904
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:55:21.906Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460521831
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:55:39.834Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460539776
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:55:48.707Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460548559
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T15:56:10.679Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-07-01T15:56:13.673Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460573602
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:56:33.018Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460592993
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:56:41.575Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460601536
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:56:46.892Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460606822
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:57:07.844Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460627777
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:57:15.514Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460635449
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:57:32.775Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460652444
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:57:52.894Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460672738
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:58:15.824Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460695657
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:58:26.789Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460706740
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:58:37.685Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460717525
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:58:46.982Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460726828
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:58:53.107Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460732945
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:59:00.546Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460740375
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:59:30.725Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460770572
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T15:59:39.277Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460779206
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:00:19.933Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460819775
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:00:25.952Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460825691
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:00:40.893Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460840591
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:00:54.796Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460854635
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:01:01.476Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460861169
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:01:08.451Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460868290
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T16:01:10.724Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-07-01T16:01:16.772Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460876528
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:01:31.513Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460891196
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:01:45.859Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460905609
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:01:57.110Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460917033
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:02:31.558Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460951251
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:02:48.588Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530460968415
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:04:00.843Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461040667
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:04:08.364Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461048207
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:04:32.679Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461072381
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:05:03.971Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461103944
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:05:20.722Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461120560
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:05:30.099Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461129928
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:05:36.247Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461135920
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:05:51.588Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461151544
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:05:57.420Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461157330
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:06:05.583Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461165425
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T16:06:10.713Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-07-01T16:06:13.146Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461173097
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:06:22.272Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461182193
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:06:28.397Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461188124
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:06:34.567Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461194542
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:06:42.916Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461202849
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:06:52.699Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461212533
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:07:10.027Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461229946
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:07:26.076Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461246007
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:07:40.569Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461260414
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:07:51.418Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461271141
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:07:59.836Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461279567
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:08:09.878Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461289625
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:08:19.113Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461298946
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:08:28.644Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461308475
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:08:35.163Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461315033
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:08:42.154Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461321953
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:08:50.544Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461330448
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:08:57.094Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461336802
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:09:05.809Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461345462
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:09:13.989Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461353961
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:09:20.360Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461360152
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:09:45.178Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461384951
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:09:51.342Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461391044
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:10:08.419Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461408229
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:10:22.258Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461421823
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T16:11:10.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-07-01T16:11:22.285Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461482129
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:12:24.400Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461544336
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:12:27.091Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461547069
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:12:29.693Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461549688
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:12:32.606Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461552562
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:12:35.233Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461555203
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:12:38.137Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461558089
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:12:40.871Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461560803
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:12:43.778Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461563743
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:09.862Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461589670
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:12.129Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461592023
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:14.678Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461594675
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:17.282Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461597223
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:19.849Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461599827
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:22.607Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461602551
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:25.234Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461605182
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:28.045Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461608005
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:32.111Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461611914
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:34.202Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461614194
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:36.757Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461616739
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:39.435Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461619389
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:42.116Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461622068
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:44.904Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461624834
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:47.497Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461627441
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:50.317Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461630285
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:53.860Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461633810
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:55.910Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461635693
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:13:58.421Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461638385
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:01.281Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461641230
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:03.980Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461643947
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:06.827Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461646778
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:09.418Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461649374
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:12.215Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461652182
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:16.384Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461656370
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:18.889Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461658868
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:21.427Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461661419
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:24.027Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461663993
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:26.647Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461666600
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:29.419Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461669369
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:32.014Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461671959
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:34.903Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461674825
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:39.470Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461679255
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:41.770Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461681703
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:44.607Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461684572
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:47.247Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461687183
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:50.020Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461689968
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:52.593Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461692549
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:55.264Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461695213
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:14:57.855Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461697821
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:01.563Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461701276
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:03.814Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461703734
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:06.764Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461706710
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:09.375Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461709317
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:12.031Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461711979
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:14.637Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461714596
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:17.183Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461717171
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:19.809Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461719754
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:27.468Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461727429
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:30.137Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461730119
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:32.716Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461732674
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:35.559Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461735522
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:38.155Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461738109
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:41.014Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461740976
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:43.637Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461743581
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:46.498Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461746446
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:54.722Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461754694
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:15:57.404Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461757383
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:16:00.017Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461759964
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:16:02.876Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461762820
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:16:05.520Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461765456
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:16:08.356Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461768307
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T16:16:10.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-07-01T16:16:10.933Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461770894
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:16:13.778Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461773738
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:16:17.457Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461777290
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:16:19.999Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461779986
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:16:22.576Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461782527
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:16:25.419Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461785384
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:16:28.012Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461787974
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:16:30.934Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461790900
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:16:33.544Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461793496
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:16:36.420Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461796372
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:16:58.925Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461818899
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:01.354Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461821331
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:04.178Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461824160
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:06.872Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461826820
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:09.731Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461829683
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:12.370Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461832316
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:15.232Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461835183
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:17.841Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461837791
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:22.468Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461842246
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:24.933Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461844864
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:27.512Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461847462
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:30.163Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461850154
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:32.810Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461852774
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:35.459Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461855411
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:38.292Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461858242
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:40.918Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461860869
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:45.042Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461864782
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:47.302Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461867030
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:49.889Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461869840
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:52.428Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461872421
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:55.107Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461875062
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:17:57.711Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461877660
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:00.489Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461880451
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:03.073Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461883034
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:07.255Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461886997
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:09.847Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461889757
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:12.434Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461892390
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:15.013Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461895008
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:17.628Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461897597
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:20.210Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461900184
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:22.888Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461902843
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:25.490Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461905470
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:33.721Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461913697
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:36.158Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461916127
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:38.982Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461918945
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:41.623Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461921595
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:44.472Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461924441
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:47.107Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461927063
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:49.983Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461929933
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:52.575Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461932547
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:18:57.406Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461937168
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:00.043Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461940009
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:02.638Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461942586
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:05.358Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461945304
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:08.035Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461947974
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:10.686Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461950642
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:13.281Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461953237
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:15.896Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461955839
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:19.587Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461959405
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:22.089Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461961981
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:24.655Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461964641
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:27.262Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461967234
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:29.856Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461969803
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:32.411Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461972403
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:35.013Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461974969
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:37.599Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461977560
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:46.073Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461986037
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:48.497Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461988452
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:51.311Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461991268
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:53.905Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461993850
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:56.741Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461996715
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:19:59.357Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530461999315
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:02.216Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462002167
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:04.767Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462004744
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:12.811Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462012772
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:15.246Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462015194
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:18.044Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462018034
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:20.621Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462020581
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:23.435Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462023390
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:26.028Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462025995
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:28.810Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462028784
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:31.404Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462031360
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:35.325Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462035169
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:37.563Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462037502
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:40.389Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462040344
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:42.983Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462042932
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:45.811Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462045764
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:48.467Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462048414
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:51.292Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462051239
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:20:53.968Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462053924
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:01.902Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462061876
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:04.357Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462064326
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:06.935Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462066925
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:09.505Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462069481
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T16:21:11.485Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-07-01T16:21:12.260Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462072197
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:14.872Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462074833
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:17.448Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462077433
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:20.231Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462080196
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:24.237Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462084052
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:26.445Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462086421
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:29.023Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462088961
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:31.608Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462091580
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:34.193Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462094146
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:36.996Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462096947
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:39.592Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462099546
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:42.419Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462102371
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:51.115Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462111114
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:53.608Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462113572
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:56.191Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462116163
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:21:59.012Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462118972
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:01.623Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462121567
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:04.434Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462124399
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:07.036Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462127002
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:09.875Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462129819
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:14.168Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462133996
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:16.443Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462136232
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:18.896Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462138880
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:21.577Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462141530
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:24.157Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462144111
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:27.028Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462146975
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:29.622Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462149580
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:32.449Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462152413
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:38.082Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462157909
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:40.288Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462160268
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:43.059Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462163034
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:45.718Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462165675
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:48.574Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462168528
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:51.138Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462171106
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:53.933Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462173906
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:22:56.530Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462176479
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:01.174Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462181066
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:03.680Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462183495
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:06.262Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462186246
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:08.833Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462188823
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:11.522Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462191506
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:14.220Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462194205
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:17.075Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462197019
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:19.653Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462199619
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:24.189Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462203905
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:26.787Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462206781
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:29.421Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462209370
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:32.245Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462212207
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:34.826Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462214785
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:37.567Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462217527
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:40.169Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462220121
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:42.794Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462222755
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:50.906Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462230851
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:53.365Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462233305
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:56.045Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462235995
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:23:58.661Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462238637
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:01.419Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462241377
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:04.014Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462243969
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:06.857Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462246817
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:09.468Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462249410
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:13.573Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462253337
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:16.059Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462256056
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:18.482Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462258439
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:21.051Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462261036
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:23.747Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462263693
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:26.372Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462266330
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:29.200Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462269150
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:31.793Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462271752
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:35.914Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462275659
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:38.409Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462278355
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:40.982Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462280934
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:43.522Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462283519
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:46.153Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462286099
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:48.756Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462288713
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:51.534Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462291474
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:54.121Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462294069
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:24:58.286Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462298101
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:00.817Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462300669
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:03.389Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462303340
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:05.926Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462305925
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:08.535Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462308466
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:11.082Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462311064
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:13.834Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462313771
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:16.534Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462316484
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:24.441Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462324401
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:26.934Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462326919
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:29.783Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462329727
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:32.419Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462332360
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:35.247Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462335204
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:37.911Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462337863
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:40.729Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462340684
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:43.326Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462343272
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:52.978Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462352964
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:55.520Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462355514
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:25:58.309Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462358255
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:00.924Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462360865
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:03.714Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462363674
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:06.294Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462366253
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:09.136Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462369088
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T16:26:11.496Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-07-01T16:26:11.731Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462371679
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:15.826Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462375664
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:18.391Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462378254
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:20.981Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462380937
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:23.522Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462383517
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:26.146Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462386130
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:28.717Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462388682
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:31.520Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462391472
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:34.109Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462394059
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:38.449Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462398283
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:40.898Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462400798
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:43.459Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462403415
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:45.985Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462405982
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:48.574Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462408533
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:51.115Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462411107
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:53.824Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462413791
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:26:56.388Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462416360
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:00.517Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462420279
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:02.914Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462422894
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:05.480Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462425442
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:08.084Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462428024
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:10.688Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462430636
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:13.272Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462433235
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:15.973Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462435972
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:18.655Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462438611
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:26.377Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462446365
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:28.808Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462448793
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:31.701Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462451665
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:34.279Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462454234
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:37.094Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462457057
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:39.716Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462459672
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:42.519Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462462474
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:45.093Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462465040
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:49.090Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462468855
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:51.256Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462471195
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:54.042Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462473993
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:56.764Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462476726
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:27:59.638Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462479587
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:02.215Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462482164
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:05.030Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462484990
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:07.683Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462487629
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:11.793Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462491625
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:13.985Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462493863
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:16.814Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462496763
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:19.464Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462499432
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:22.283Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462502224
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:24.809Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462504805
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:27.626Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462507584
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:30.199Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462510154
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:34.386Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462514206
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:36.882Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462516580
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:39.516Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462519460
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:42.084Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462522045
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:44.841Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462524798
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:47.451Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462527398
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:50.310Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462530259
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:52.888Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462532839
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:56.953Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462536692
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:28:59.417Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462539246
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:01.997Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462541954
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:04.538Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462544530
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:07.233Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462547177
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:09.811Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462549764
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:12.597Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462552565
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:15.168Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462555117
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:23.331Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462563297
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:25.794Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462565777
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:28.669Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462568640
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:31.278Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462571227
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:34.122Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462574070
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:36.736Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462576706
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:39.621Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462579579
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:42.231Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462582178
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:46.292Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462586116
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:48.529Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462588452
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:51.342Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462591295
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:53.933Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462593886
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:56.780Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462596706
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:29:59.370Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462599343
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:02.191Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462602152
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:04.796Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462604741
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:09.184Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462608868
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:11.623Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462611411
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:14.154Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462614110
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:16.678Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462616670
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:19.501Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462619450
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:22.042Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462621992
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:24.800Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462624769
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:27.342Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462627298
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:31.386Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462631221
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:33.858Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462633625
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:36.403Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462636347
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:38.973Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462638945
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:41.645Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462641623
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:44.185Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462644142
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:47.124Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462647100
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:49.735Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462649664
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:30:57.505Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462657501
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:00.042Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462660009
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:02.889Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462662848
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:05.543Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462665494
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:08.401Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462668364
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:10.967Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462670923
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T16:31:13.004Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-07-01T16:31:13.748Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462673720
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:16.325Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462676278
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:20.564Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462680341
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:22.774Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462682711
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:25.543Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462685496
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:28.122Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462688078
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:30.940Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462690876
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:33.482Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462693430
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:36.279Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462696229
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:38.871Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462698817
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:42.942Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462702709
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:45.162Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462705092
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:47.924Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462707892
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:50.482Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462710437
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:53.263Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462713217
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:55.823Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462715782
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:31:58.655Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462718597
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:01.294Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462721250
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:05.307Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462725061
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:07.634Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462727535
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:10.450Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462730403
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:13.091Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462733057
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:15.871Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462735846
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:18.467Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462738411
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:21.325Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462741300
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:23.866Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462743830
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:27.908Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462747724
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:30.344Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462750157
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:32.983Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462752940
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:35.545Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462755501
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:38.327Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462758294
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:40.886Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462760840
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:43.673Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462763642
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:46.246Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462766200
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:54.470Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462774429
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:56.918Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462776898
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:32:59.794Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462779739
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:02.371Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462782326
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:05.168Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462785126
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:07.799Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462787781
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:10.577Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462790554
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:13.137Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462793090
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:17.229Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462796972
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:19.643Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462799515
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:22.577Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462802535
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:25.152Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462805114
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:28.120Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462808068
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:30.714Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462810662
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:33.593Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462813528
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:36.218Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462816158
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:44.518Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462824490
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:46.981Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462826964
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:49.820Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462829812
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:52.467Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462832439
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:55.496Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462835442
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:33:58.108Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462838079
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:00.950Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462840907
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:03.512Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462843470
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:07.699Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462847455
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:09.949Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462849879
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:12.731Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462852676
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:15.325Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462855274
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:18.114Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462858081
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:20.668Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462860615
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:23.591Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462863546
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:26.168Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462866126
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:30.776Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462870557
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:33.310Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462873291
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:38.740Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462878698
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:41.308Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462881254
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:43.864Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462883805
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:46.497Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462886442
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:49.094Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462889042
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:53.109Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462892859
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:55.594Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462895517
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:34:58.130Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462898086
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:00.754Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462900697
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:03.389Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462903343
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:05.911Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462905895
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:08.623Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462908583
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:11.247Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462911207
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:19.227Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462919209
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:21.639Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462921620
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:24.440Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462924437
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:26.997Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462926955
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:29.824Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462929777
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:32.389Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462932333
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:35.184Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462935131
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:37.910Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462937875
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:45.721Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462945689
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:48.185Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462948151
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:50.801Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462950738
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:53.418Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462953375
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:55.944Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462955940
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:35:58.596Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462958553
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:01.172Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462961123
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:03.965Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462963917
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:08.023Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462967811
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:10.318Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462970226
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:12.866Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462972801
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T16:36:14.645Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-07-01T16:36:15.417Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462975369
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:17.958Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462977918
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:20.732Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462980691
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:23.278Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462983236
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:26.219Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462986203
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:30.416Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462990254
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:32.753Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462992581
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:35.290Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462995248
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:37.843Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530462997792
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:40.397Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463000391
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:43.044Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463003005
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:45.606Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463005543
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:48.403Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463008376
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:52.557Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463012328
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:54.795Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463014790
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:57.350Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463017288
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:36:59.933Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463019883
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:02.488Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463022454
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:05.200Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463025164
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:07.749Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463027704
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:10.591Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463030544
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:14.667Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463034438
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:16.945Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463036848
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:19.459Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463039453
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:22.123Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463042073
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:24.689Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463044637
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:27.702Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463047653
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:30.292Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463050253
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:33.043Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463053017
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:37.176Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463056984
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:39.338Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463059333
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:41.987Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463061928
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:44.532Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463064477
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:47.052Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463067032
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:49.795Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463069723
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:52.324Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463072300
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:37:55.122Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463075078
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:03.156Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463083120
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:05.841Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463085823
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:08.485Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463088443
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:11.310Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463091258
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:13.905Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463093858
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:16.808Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463096771
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:19.342Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463099322
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:22.153Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463102109
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:30.594Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463110570
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:33.294Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463113271
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:35.842Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463115795
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:38.621Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463118590
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:41.202Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463121162
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:43.997Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463123955
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:46.560Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463126515
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:49.331Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463129318
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:53.178Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463132982
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:55.685Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463135609
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:38:58.218Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463138174
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:01.121Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463141071
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:03.669Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463143636
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:06.466Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463146422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:09.028Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463148986
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:11.842Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463151792
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:16.194Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463155771
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:18.745Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463158715
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:21.309Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463161262
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:24.105Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463164050
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:26.669Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463166622
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:29.606Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463169597
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:32.160Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463172118
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:34.923Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463174890
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:39.195Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463179184
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:41.684Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463181562
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:44.177Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463184172
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:46.731Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463186683
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:49.303Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463189282
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:52.059Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463192016
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:54.621Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463194581
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:39:57.423Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463197391
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:05.841Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463205788
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:08.513Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463208486
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:11.075Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463211019
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:13.871Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463213823
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:16.451Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463216402
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:19.220Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463219193
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:21.824Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463221771
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:24.622Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463224584
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:32.658Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463232613
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:35.324Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463235296
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:37.855Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463237806
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:40.670Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463240616
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:43.231Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463243182
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:45.917Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463245875
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:48.486Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463248439
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:51.061Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463251046
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:55.423Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463255366
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:40:58.110Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463258023
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:00.640Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463260607
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:03.465Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463263414
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:06.074Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463266046
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:08.873Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463268827
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:11.448Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463271410
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:14.200Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463274188
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T16:41:15.993Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-07-01T16:41:18.203Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463277854
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:20.543Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463280474
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:23.106Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463283067
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:25.936Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463285880
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:28.799Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463288788
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:32.044Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463292001
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:34.598Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463294562
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:37.371Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463297322
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:42.361Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463302189
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:44.647Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463304520
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:47.385Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463307331
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:49.995Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463309956
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:52.685Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463312629
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:55.293Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463315259
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:41:57.795Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463317784
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:00.356Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463320314
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:08.334Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463328321
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:10.921Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463330882
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:13.450Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463333415
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:16.356Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463336303
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:18.906Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463338862
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:21.715Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463341665
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:24.261Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463344217
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:27.045Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463346994
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:35.114Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463355090
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:37.810Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463357790
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:40.372Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463360316
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:43.168Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463363124
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:45.716Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463365685
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:48.543Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463368511
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:51.200Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463371147
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:42:53.964Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463373911
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:01.583Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463381541
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:04.052Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463384047
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:06.700Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463386648
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:09.261Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463389215
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:12.074Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463392025
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:14.637Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463394612
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:17.418Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463397380
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:19.965Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463399925
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:24.030Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463403790
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:26.436Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463406167
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:29.044Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463408988
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:31.647Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463411612
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:34.527Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463414475
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:37.076Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463417037
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:39.875Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463419826
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:42.451Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463422408
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:50.262Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463430210
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:52.761Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463432729
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:55.505Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463435481
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:43:58.139Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463438099
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:00.926Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463440888
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:03.482Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463443437
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:06.265Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463446217
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:08.823Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463448782
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:13.171Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463452988
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:15.385Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463455354
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:18.139Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463458098
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:20.699Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463460653
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:23.529Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463463476
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:26.076Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463466040
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:28.871Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463468822
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:31.420Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463471387
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:39.450Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463479405
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:42.048Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463481863
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:44.517Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463484467
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:47.076Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463487024
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:49.583Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463489582
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:52.214Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463492171
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:54.730Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463494707
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:44:57.560Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463497489
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:01.884Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463501706
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:04.201Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463504093
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:06.778Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463506743
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:09.340Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463509295
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:11.882Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463511874
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:14.498Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463514439
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:17.066Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463517005
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:19.830Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463519788
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:23.912Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463523714
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:26.080Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463525961
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:28.632Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463528572
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:31.200Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463531166
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:33.781Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463533736
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:36.764Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463536735
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:39.326Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463539283
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:42.123Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463542077
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:46.172Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463546004
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:48.379Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463548261
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:50.866Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463550858
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:53.530Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463553479
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:56.142Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463556087
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:45:58.904Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463558850
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:01.457Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463561421
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:04.261Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463564220
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:12.159Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463572135
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:14.903Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463574887
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T16:46:16.693Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-07-01T16:46:17.435Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463577408
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:20.224Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463580183
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:22.811Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463582769
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:25.654Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463585600
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:28.201Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463588173
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:30.981Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463590932
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:38.558Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463598527
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:41.148Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463601135
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:43.731Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463603688
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:46.304Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463606256
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:49.060Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463609010
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:51.622Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463611579
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:54.451Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463614410
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:46:57.043Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463616993
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:05.044Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463625012
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:07.433Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463627418
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:10.199Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463630158
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:12.782Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463632726
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:15.560Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463635518
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:18.106Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463638069
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:20.855Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463640814
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:23.418Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463643376
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:27.287Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463646976
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:29.491Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463649401
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:32.230Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463652196
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:34.781Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463654741
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:37.635Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463657609
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:40.199Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463660160
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:42.889Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463662850
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:45.450Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463665410
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:52.943Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463672903
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:55.529Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463675513
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:47:58.154Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463678114
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:00.940Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463680904
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:03.520Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463683481
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:06.294Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463686259
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:08.856Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463688808
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:11.639Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463691593
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:15.680Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463695190
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:17.925Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463697800
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:20.425Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463700416
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:23.218Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463703206
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:25.779Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463705721
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:28.562Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463708515
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:31.107Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463711054
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:33.887Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463713861
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:41.919Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463721885
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:44.610Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463724578
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:47.155Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463727101
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:49.949Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463729897
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:52.458Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463732430
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:55.122Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463735093
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:48:57.651Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463737602
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:00.215Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463740143
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:05.684Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463745665
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:07.780Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463747768
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:10.247Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463750191
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:13.046Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463752990
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:15.607Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463755555
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:18.418Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463758378
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:20.981Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463760927
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:23.808Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463763767
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:28.699Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463768320
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:30.934Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463770894
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:33.507Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463773503
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:36.045Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463776004
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:38.584Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463778559
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:41.573Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463781521
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:44.240Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463784224
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:46.952Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463786900
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:50.876Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463790637
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:53.078Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463792937
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:55.631Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463795572
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:49:58.213Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463798161
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:00.745Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463800696
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:03.527Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463803481
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:06.090Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463806050
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:08.873Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463808831
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:13.114Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463813050
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:15.452Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463815398
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:17.928Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463817868
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:20.496Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463820441
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:23.036Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463823008
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:25.814Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463825780
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:28.370Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463828325
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:31.144Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463831103
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:35.433Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463835218
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:37.587Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463837502
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:40.085Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463840077
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:42.887Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463842837
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:45.474Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463845441
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:48.171Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463848136
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:50.731Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463850681
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:50:53.513Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463853485
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:01.395Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463861358
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:04.138Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463864117
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:06.641Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463866613
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:09.427Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463869389
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:12.074Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463872044
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:15.341Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463875288
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T16:51:17.291Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-07-01T16:51:18.041Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463878007
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:20.934Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463880877
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:25.684Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463885405
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:27.819Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463887728
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:30.382Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463890380
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:32.951Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463892897
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:35.520Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463895500
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:38.232Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463898187
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:40.780Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463900733
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:43.761Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463903725
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:47.852Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463907646
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:50.143Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463909954
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:52.647Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463912646
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:55.262Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463915204
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:51:57.816Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463917775
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:52:00.575Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463920526
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:52:03.092Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463923090
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:52:05.950Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463925914
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:52:13.721Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463933719
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:52:16.419Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463936364
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:52:18.983Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463938929
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:52:21.767Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463941738
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:52:24.341Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463944285
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:52:27.173Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463947115
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:52:29.699Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463949684
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:52:32.498Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463952444
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-01T16:52:40.114Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530463960069
+
+  phantomjs://platform/console++.js:263 in error
